@@ -1,3 +1,3 @@
 # Anish sachdeva's resume
 
-[click here](resume.pdf) to view it
+[click here](resume-anish-sachdeva.pdf) to view it
